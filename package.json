@@ -1,0 +1,27 @@
+{
+  "name": "seo-lie-detector",
+  "version": "1.0.0",
+  "description": "Fact-checks SEO claims against Google's documented positions. PANTS ON FIRE ratings included.",
+  "keywords": ["seo", "seo-myths", "seo-facts", "google", "cli", "fact-check"],
+  "license": "MIT",
+  "author": "NickCirv",
+  "homepage": "https://github.com/NickCirv/seo-lie-detector#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/seo-lie-detector.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NickCirv/seo-lie-detector/issues"
+  },
+  "main": "index.js",
+  "bin": {
+    "seo-lie-detector": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {}
+}
