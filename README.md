@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # SEO Lie Detector 🔥
 
 [![npm version](https://img.shields.io/npm/v/seo-lie-detector.svg)](https://www.npmjs.com/package/seo-lie-detector)
