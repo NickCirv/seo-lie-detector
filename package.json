@@ -18,10 +18,11 @@
     "seo-lie-detector": "./index.js"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "node --test"
   },
   "engines": {
-    "node": ">=14.0.0"
+    "node": ">=20"
   },
   "dependencies": {}
 }
